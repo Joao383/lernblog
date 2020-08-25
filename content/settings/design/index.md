@@ -1,7 +1,7 @@
 +++
 headless = true
 icon = "/media/download-2-.jpg"
-logo = ""
+logo = "/media/download-2-.jpg"
 image = "/media/download.jpg"
 color = ""
 +++
