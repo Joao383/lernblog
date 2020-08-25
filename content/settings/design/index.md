@@ -1,6 +1,6 @@
 +++
 headless = true
-icon = ""
+icon = "/media/download-2-.jpg"
 logo = ""
 image = "/media/download.jpg"
 color = ""
