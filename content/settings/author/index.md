@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "João"
-image = ""
+image = "/media/download-4-.jpg"
 email = "joao.caduffg@mail.com"
 +++
