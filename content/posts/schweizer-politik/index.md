@@ -14,32 +14,32 @@ Die Schweiz ist das Land das diesem Konzept am Näherstehen kommt mit einer halb
 
 
 
+![](screenshot-50-.png)
+
 Bei der Direkten Demokratie kann das Volk selber über gesetzte entscheiden und es gibt kein parlament.
 
 Bei der Repräsentativer Demokratie wählt das Volk nur seine Vertreter die dann über Gesetze entscheiden können und haben somit keinen direkten Einfluss auf das Parlament
 
 Die Schweiz hat Elemente von beiden Demokratien was dem Volk erlaubt selber zu entscheiden aber es gibt trotzdem ein Parlament. 
 
-
-
 Das Schweizer Stimmvolk (Bürger über 18 Jahre) wählen das Parlament. Das Parlament besteht aus dem Nationalrat Und dem Ständerat. Das Parlament Macht Gesetze und slägt Änderungen in der Verfassung vor. über diese Änderungen muss das Volk zwingend abstimmen man nennt dies obligatorisches Referendums recht. Das Parlament wählt auch den Bundesrat der aus 7 Politikern besteht
 
 
 
+![](screenshot-51-.png)
+
 Wen das Parlament eine Änderung in der Verfassung vornehmen will dann muss das Volk zwingend abstimmen (oben erwähnt). Die Änderung wird nur dann angenommen wenn die Mehrheit der Bevölkerung und der Kantone dafür stimmen.  Das nennt sich dass Volks und Ständemehr. Das Ständemehr dient dafür so das bevölkerungs- starke Kantone wie Zürich politische Entscheidungen nicht zu stark beeinflussen.
-
-
 
 Will das Volk eine Änderung vornehmen nennt sich das Initiative. Für eine Initiative müssen 100,000 unterschritten gesammelt Verden. Gelingt dies wir abgestimmt für eine Initiative wird Volk und Ständemehr benötigt.
 
-
-
 Wenn das Parlament ein neues gesetzt erlässt muss das Volk nicht zwingend abstimmen ist das Volk jedoch nicht zufrieden müssen 50,000 Unterschrift gesammelt werden dann wird nochmal abgestumpft. das ist das fakultatives Referendums recht. es wird nur das volks- mehr benötigt das Ständemehr spielt hierbei keine rolle.  
-
-
 
 Gewaltenverteilung\
 Um zu verhindern das eine Person zuviel Mach besitzt gibt es die Gewaltrerteilung. Man unterscheidet die volgenden 3 Gewalten 
+
+
+
+![](screenshot-52-.png)
 
 Die Legislative (das Parlament)
 (Gesetzgebende Gewalt)      
@@ -47,11 +47,13 @@ Die Legislative (das Parlament)
 Abgesehen vom Volk ist die legislative die höchste Gewalt in der Schweiz                Sie bestimmt gesetzte und Versfassung Änderungen. Sie besteht aus zwei gleichgestellten Räten
 Den Nationalrat und den Ständerat. Der Nationalrat repräsentiert das Volk wird alle 4 Jahre neu gewählt und besteht aus 200 Mitglieder. Der Ständerat repräsentiert die Kantone jeder Kanton hat 2 Mitglieder jeder halb Kanton (Unterwalden Appenzell Basel Schwyz Glarus) 1 Mitglied  im Ständerat somit hat der Ständerat 46 Mitglieder
 
-
-
 Die Exekutive(der Bundesrat)
 
 Der Bundesrat besteht aus 7 Mitglieder die vom Parlament gewählt werden. Ihre ahmt zeit beträgt 4 Jahre. Obwohl es ein Bundespräsident gibt sind alle Mitglieder gleichgestellt das nennt sich Kollegialitäts Regierung. Der Bundespräsident vertit den Bundesrat nach aussen Er wird von der Bundesversammlung jedes Jahr neu gewählt. zu dem steht jedem Mitglied ein Departement zu. Der Bundeskanzler unterstützt und beratet den Bundesrat ist aber selber kein Mitglied des Rates
+
+
+
+![](screenshot-53-.png)
 
 
 
@@ -63,9 +65,7 @@ Der Bundesrat besteht aus 7 Mitglieder die vom Parlament gewählt werden. Ihre a
 6:Wirtschaft Bildung und Forschung
 7:Umwelt verkehr und Kommunikation
 
-```
 
-```
 
 Die Judikative
 in der Schweiz ist das Bundesgericht das höchste Gericht. Es überwacht die Einhaltung der gesetzte und regeln.Kann eine Angelegenheit nicht im Kanton geregelt werden entscheidet das Bundesgericht. Die 4 Bundesrichter werden bei der Bundesversammlung gewählt ihre Amts Dauer beträgt 6 Jahre
