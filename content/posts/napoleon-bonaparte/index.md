@@ -7,7 +7,7 @@ image = "download-5-.jpg"
 +++
 (Ich denke in Zukunft werde ich über wichtige Personen in der Geschichte Schreiben. Und Napoleon Bonaparte ist doch ein toller Start)
 
-\     **Napoleon Bonaparte** 
+    **Napoleon Bonaparte** 
 
 [![](https://1.bp.blogspot.com/-kSNkF4s_eiA/X18aoZyYJKI/AAAAAAAAE5w/iYkcxTi0ChYO3auNleozldQ77QGTp7q_QCLcBGAsYHQ/w424-h221/download.jpg)](https://www.blogger.com/blog/post/edit/7703410114569854784/6550224318656332929?hl=en#)
 
