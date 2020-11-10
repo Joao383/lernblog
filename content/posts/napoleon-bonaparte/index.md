@@ -18,7 +18,7 @@ Stipendium an dem Collège von Autun in Frankreich bekomen. Napoleon hatte all
 
 [![](https://1.bp.blogspot.com/-8wmqhxOOEog/X4_90sxNqWI/AAAAAAAAFAc/KIb7Y1UX1nMKAuzh5zwWH5yBow752NlMQCLcBGAsYHQ/w400-h235/download.jpg)](https://www.blogger.com/blog/post/edit/7703410114569854784/6550224318656332929?hl=en#)
 
-1785 starb Napoleons vater an magenkrebs und Napoleon übernam die rolle als oberhaubt der familie die eigentlich seinem älteren bruder joseph zustand im gleichen jahr konnte Napoleon seine ausbildung dank seiner guter leistung früzeitig bendet und bekam mit kaum 16 jahre ein ofizierspatent und trat in regiment La Fèr
+1785 starb Napoleons vater an magenkrebs und Napoleon übernam die rolle als oberhaubt der familie die eigentlich seinem älteren bruder joseph zustand im gleichen jahr konnte Napoleon seine ausbildung dank seiner guter leistung früzeitig bendet und bekam mit kaum 16 jahre ein ofizierspatent und trat in regiment La Fère
 
 [![](https://1.bp.blogspot.com/-X2YBRT2hLy8/X5AGePhL3wI/AAAAAAAAFAo/eIFS-3zLRowx9ly6zV9fHkN0JbEpbAeiwCLcBGAsYHQ/s320/download%2B%25281%2529.jpg)](https://www.blogger.com/blog/post/edit/7703410114569854784/6550224318656332929?hl=en#)
 
