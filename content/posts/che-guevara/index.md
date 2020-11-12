@@ -23,9 +23,13 @@ Che Guevara wurde zuerst zuhause unterrichtet, von seiner Mutter Er konnte sich 
 
 Als 1941 nach dem Militärputsch Francos Spanische Bürgerkrieg beendet war, wurde ihr Haus zum Treffpunkt spanischer republikanischer Exilanten, als Versteck gebraucht. Mit 22 Jahren ging Che in die Dean-Funes-Gymnasium in Córdoba das bedeutete, dass Che für in die Schule 35 km hin und zurück machen musste Im Jahr 1943 wechselte seine Schwester Celia auf eine Schule in Córdoba Eltern zogen dorthin, um den Kindern den beschwerlichen Schulweg zu ersparen.
 
-![](download-2-.jpg)
 
-   (Che mit seinem Vater und Mutter)
+
+![](https://1.bp.blogspot.com/-UTsSv4jk1dA/X5lbuxwK2gI/AAAAAAAAFDU/f6mFfeXPW08P-WkdWk0xwmXm_Nz2J0YCQCLcBGAsYHQ/s320/download%2B%25282%2529.jpg)
+
+  (Che mit seinem Vater und Mutter)
+
+
 
 1946 Trennten sich die Eltern von Che und im gleichen Jahr starb seine Grossmutter. Darum entschied sich Che nach den bestandenen Abiturprüfungen in Buenos Aires Medizin zu studieren dort lebte er mit seiner Mutter. Er unterbrach sein Studium um mit Alberto Granado, in Córdoba auf einem Norton Modell 18 Süd Amerika zu erkunden eine Reise die Che Guevaras Leben für immer geprägt hat Durch die Reise in Peru wurde ihm bewusst, welche Ausnahme sein Wohlstand darstellte. Nach seiner Reise kam er zurück und beendete in den nächsten 7 Monate seine Prüfungen. Sein Medizinstudium schloss er am 11. April 1953 mit dem Doktorgrad in Medizin und Chirurgie ab.
 
