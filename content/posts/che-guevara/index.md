@@ -15,7 +15,7 @@ Che Guevara wurde 14. Juni 1928 in  Puerto Caraguatay geboren, als seine Famili
 
  [![](https://1.bp.blogspot.com/-gpSHs0hxRAo/X5lGtsdF-MI/AAAAAAAAFC8/KgdCmLjhFg0y88y83V9d1kxz5fzcs8yPQCLcBGAsYHQ/w400-h225/dowload.jpg)](https://www.blogger.com/blog/post/edit/7703410114569854784/6321650398524566074#) [](https://www.blogger.com/blog/post/edit/7703410114569854784/6321650398524566074#)
 
-\    (Che und seine Mutter)
+ (Che und seine Mutter)
 
 
 
@@ -25,7 +25,7 @@ Che Guevara wurde zuerst zuhause unterrichtet, von seiner Mutter Er konnte sich 
 
  [![](https://1.bp.blogspot.com/-HpdPIJFFmUc/X5lKEb628-I/AAAAAAAAFDI/yJC4R681xuQ_gDTZ7BPFY2Ig6h5fpAG0QCLcBGAsYHQ/w400-h225/download%2B%25281%2529.jpg)](https://www.blogger.com/blog/post/edit/7703410114569854784/6321650398524566074#)
 
-\      (die Familie von Che Guevara)
+(die Familie von Che Guevara)
 
 Als 1941 nach dem Militärputsch Francos Spanische Bürgerkrieg beendet war, wurde ihr Haus zum Treffpunkt spanischer republikanischer Exilanten, als Versteck gebraucht. Mit 22 Jahren ging Che in die Dean-Funes-Gymnasium in Córdoba das bedeutete, dass Che für in die Schule 35 km hin und zurück machen musste Im Jahr 1943 wechselte seine Schwester Celia auf eine Schule in Córdoba Eltern zogen dorthin, um den Kindern den beschwerlichen Schulweg zu ersparen.
 
@@ -33,7 +33,7 @@ Als 1941 nach dem Militärputsch Francos Spanische Bürgerkrieg beendet war, wu
 
 ![](https://1.bp.blogspot.com/-UTsSv4jk1dA/X5lbuxwK2gI/AAAAAAAAFDU/f6mFfeXPW08P-WkdWk0xwmXm_Nz2J0YCQCLcBGAsYHQ/s320/download%2B%25282%2529.jpg)
 
-\    (Che mit seinem Vater und Mutter)
+(Che mit seinem Vater und Mutter)
 
 
 
@@ -43,7 +43,9 @@ Als 1941 nach dem Militärputsch Francos Spanische Bürgerkrieg beendet war, wu
 
  [![](https://1.bp.blogspot.com/-KGUz7qsoSh8/X6ERA0Uhw8I/AAAAAAAAFEY/PueZt4SJAxMREUUlQYSd-HFdD57GXn6vgCLcBGAsYHQ/s320/download.jpg)](https://www.blogger.com/blog/post/edit/7703410114569854784/6321650398524566074#)
 
-    (ein Norton model 18 ches motorad)
+(ein Norton model 18 ches motorad)
+
+
 
 Die Reisen wurden posthum unter dem Titel The Motorcycle Diaries (deutsch Die Reise des jungen Che) verfilmt. Ende 1954 traf Che eine Gruppe Exil Kubaner Durch. sie lernte er im Sommer 1955 Fidel Castro kennen, den Anführer vom damaligen Putschversuch Sie planten eine bewaffnete Expedition nach Kuba, Guevara schloss sich zunächst als Expeditionsarzt der Gruppe an. Im April 1956 in Mexiko wurde seine Teilnahme konkreter, Als sie militärische Ausbildung erhielten wurde das lager  von der Polizei entdekt und Che ging 2 Monate ins Gefängnis. Er verliess es mit einer Auflage das Land zu verlassen welche. Er ignorierte er tauchte bei Freunden unter. Castro Vollte nach Kuba aufbrechen. Nachdem er die Motoryacht Granma gekauft hatte, trafen sich am 23. November 1956 die Rebellen, insgesamt 86 an der Zahl, in Tuxpan und fuhren zwei Tage später los in Richtung Kuba, das sie am 2. Dezember 1956 erreichten.
 
@@ -57,7 +59,7 @@ Nachdem die Yacht in Kuba angedockt hatte  starben die meisten Rebellen bei
 
   [﻿![](https://1.bp.blogspot.com/-9YTZm-sVPCo/X6O-QtP7lrI/AAAAAAAAFE0/_yfKBdF0SasIuKwg9JcGOk83uuVPRZmBQCLcBGAsYHQ/s320/CheyFidel.jpg)﻿](https://www.blogger.com/blog/post/edit/7703410114569854784/6321650398524566074#)﻿
 
-   (che und Fidel in der Hauptstad)
+(che und Fidel in der Hauptstad)
 
 Das Ziel war ein unabhängiges Kuba zu bauen. Che wurde zu einem Mitglieder der kubanischer Regierung. Auf dem Höhepunkt seiner politischen Aktivität in Kuba war Guevara Leiter der Nationalbank Kubas und Industrieminister. Fiel behauptete das Nordkorea sei ein Beispiel vom Ziel das Kuba anstreben sollte Er unterstützte auch die Errichtung von Arbeitslager Eine weitere Reise führte Guevara 1964 als Leiter der kubanischen UN-Delegation nach New York. In einer bekannten Rede vor der UN bekannte er sich zur revolutionären Gewalt als Mittel der internationalen Politik und forderte die Übertragung der kubanischen Revolution auf andere Länder. Als Che von der Reise zurückkam gab fidel Castro den Befehl und Che wurde er von seinen Ämtern entlassen. Er verliess das Land, um die Revolution zu unterstützen. 
 
