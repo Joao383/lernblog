@@ -3,7 +3,7 @@ title = "Che Guevara"
 date = "2020-11-12"
 draft = false
 pinned = false
-image = "170px-che_guevara_-_grab_in_santa_clara-_kuba_-frag-.jpg"
+image = "download-5-.jpg"
 +++
 **Che Guevara**
 
