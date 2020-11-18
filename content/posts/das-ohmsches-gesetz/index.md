@@ -1,7 +1,7 @@
 +++
 title = "das Ohmsches Gesetz"
 date = "2020-11-18"
-draft = true
+draft = false
 pinned = false
 image = "download.jpg"
 +++
