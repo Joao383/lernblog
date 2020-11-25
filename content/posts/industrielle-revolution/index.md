@@ -15,4 +15,12 @@ Die Dampfmaschine öfnete eine Türe ganz neuer Möglichkeiten, massen produktio
 
 ![Eine der ersten eisenbäne](download-61-.jpg)
 
-Eine Grosse veränderung war auch die eisenbahn, Sie transportierte  Güter und Menschen Durchs land Was dem Reich viel Geld sparte. Aber nicht alle waren einferstanden mit diser Erfindung. Die Bauer fürchteten das die Funken die von der Eisenbahn kamen das Land in Brand setzten. Und die Ärzte sagten das man grosse Gesundeitschäden von der Geschvindikeit beckam. (Das waren knap 30 kmh)
+Eine Grosse veränderung war auch die eisenbahn, Sie transportierte  Güter und Menschen Durchs land Was dem Reich viel Geld sparte. Aber nicht alle waren einferstanden mit diser Erfindung. Die Bauer fürchteten das die Funken die von der Eisenbahn kamen das Land in Brand setzten. Und die Ärzte sagten das man grosse Gesundeitschäden von der Geschvindikeit beckam. (Das waren knap 30 kmh) 
+
+![E](download-1-.jpg)
+
+Doch was der Revulution den warhaftigen schubs gegeben hat war die Landwirtschaftliche Revolution. Die Tiere wurden durch Maschienen ausgetauscht und man benutzte neue Metohden wie zum beispiel Dünger. das brachte mehr Essen und die population erhöte sich dramatisch. Mehr leute brauchten mehr Arbeit, mehr Arbeit gab es in den Minen. Das wiederum brachte mehr Kole. Mehr Kole gab platz für neue Fabriken da der Treibstoff für Maschinen günstiger wurde Und das gab mehr Arbiet. Das rad dret sich weiter und weiter 
+
+![](download-2-.jpg)
+
+Doch Für die population war das leben schwer man wurde wening bezalt. man muste mehr und härter arbeiten kinder ab 6 jahren in den fabriken. überfülte strassen und heuser. Krankheit und armut in diesem alter wuchs der unterschied arm und reich wie nie zufor
