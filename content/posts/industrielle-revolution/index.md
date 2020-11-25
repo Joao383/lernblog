@@ -11,4 +11,8 @@ Nimand weis genau warum die Indusriele Revulution gestartet hat aber man weis wa
 
 ![Eine Textilien Fabrick](download-11-.jpg)
 
-Das öfnete eine Türe ganz neue Möglichkeiten massen produktion von eisen,kleider,essen immer mehr leute kamen in die stadte was immer mehr produktion bedeutete am anfang der revulution lebte weniger als 15% prozent der population in statden dan wurden es 50% und am ende 85% aber die groste prodution in england war textilien als die revulution gestarted hat dominirte indien den markt doch england erfand die Spinnmaschine die weniger personal brauchte und schneler produzierte
+Die Dampfmaschine öfnete eine Türe ganz neuer Möglichkeiten, massen produktion von eisen,kleider,essen. Immer mehr leute kamen in die stadte was immer mehr produktion bedeutete. Am anfang der revulution lebte weniger als 15% prozent der population in stätden dan wurden es 50% und am ende 85%. Die Revulution änderte auch die Textilien produktion, als die Revulution gestarted hat dominirte Indien den Markt doch England erfand die Spinnmaschine die weniger Personal brauchte und schneler produzierte und übernam so den Markt.
+
+![Eine der ersten eisenbäne](download-61-.jpg)
+
+Eine Grosse veränderung war auch die eisenbahn, Sie transportierte  Güter und Menschen Durchs land Was dem Reich viel Geld sparte. Aber nicht alle waren einferstanden mit diser Erfindung. Die Bauer fürchteten das die Funken die von der Eisenbahn kamen das Land in Brand setzten. Und die Ärzte sagten das man grosse Gesundeitschäden von der Geschvindikeit beckam. (Das waren knap 30 kmh)
