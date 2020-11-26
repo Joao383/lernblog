@@ -7,28 +7,40 @@ image = "download.jpg"
 +++
 ![](download.jpg)
 
-Nimand weis genau warum die Indusriele Revulution gestartet hat aber man weis wan. 1760 in Gross Britanien  began die Industriele Revulution mit erhöter Kolen produzion James Watt erfand die Dampfmaschine um das viele wasser aus den minen zu pumpen, die oft überfluted wurden. Die Technologie die in unserer welt bis heute benutzt wird namlich in Atom und Kolen Kraftwerke es ist nämlich ales nur Wasser und Hitze. 
+Niemand weis genau was der auslöser für die Industrielle Revolution war aber man weis wann. 1760 in Gross Britannien begann die Industrielle Revolution mit erhöhter Kohlen Produktion. James Watt erfand die Dampfmaschine um das viele Wasser aus den Minen zu pumpen, die oft überflutet wurden. Die Technologie die in unserer Welt bis heute benutzt wird, nämlich in Atom und Kohlen Kraftwerke es ist nämlich alles nur Wasser und Hitze.
+
+
 
 ![Eine Textilien Fabrick](download-11-.jpg)
 
-Die Dampfmaschine öfnete eine Türe ganz neuer Möglichkeiten, massen produktion von eisen,kleider,essen. Immer mehr leute kamen in die stadte was immer mehr produktion bedeutete. Am anfang der revulution lebte weniger als 15% prozent der population in stätden dan wurden es 50% und am ende 85%. Die Revulution änderte auch die Textilien produktion, als die Revulution gestarted hat dominirte Indien den Markt doch England erfand die Spinnmaschine die weniger Personal brauchte und schneler produzierte und übernam so den Markt.
+Die Dampfmaschine öffnete eine Türe ganz neuer Möglichkeiten, massen Produktion von Eisen,Kleider,essen. Immer mehr Leute kamen in die Städte was immer mehr Produktion bedeutete. Am Anfang der Revolution lebte weniger als 15% Prozent der Population in Stätten dann wurden es 50% und am ende 85%. Die Revolution änderte auch die Textilien Produktion, als die Revolution gestartet hat dominierte Indien den Markt doch England erfand die Spinnmaschine die weniger Personal brauchte und schneller produzierte und übernahm so den Markt.
+
+
 
 ![Eine der ersten eisenbäne](download-61-.jpg)
 
-Eine Grosse veränderung war auch die eisenbahn, Sie transportierte  Güter und Menschen Durchs land Was dem Reich viel Geld sparte. Aber nicht alle waren einferstanden mit diser Erfindung. Die Bauer fürchteten das die Funken die von der Eisenbahn kamen das Land in Brand setzten. Und die Ärzte sagten das man grosse Gesundeitschäden von der Geschvindikeit beckam. (Das waren knap 30 kmh) 
+Eine Grosse Veränderung war auch die Eisenbahn, Sie transportierte Güter und Menschen Durchs Land Was dem Reich viel Geld sparte. Aber nicht alle waren einverstanden mit dieser Erfindung. Die Bauer fürchteten das die Funken die von der Eisenbahn kamen das Land in Brand setzten. Und die Ärzte sagten die grosse Geschwindigkeit Gesundheitsschädigend war. (Das waren knapp 30 km)
+
+
 
 ![Eine tüpische ersezung der Tiere (Dampf pflug)](download-1-.jpg)
 
-Doch was der Revulution den warhaftigen schubs gegeben hat war die Landwirtschaftliche Revolution. Die Tiere wurden durch Maschienen ausgetauscht und man benutzte neue Metohden wie zum beispiel Dünger. das brachte mehr Essen und die population erhöte sich dramatisch. Mehr leute brauchten mehr Arbeit, mehr Arbeit gab es in den Minen. Das wiederum brachte mehr Kole. Mehr Kole gab platz für neue Fabriken da der Treibstoff für Maschinen günstiger wurde Und das gab mehr Arbiet. Das rad dret sich weiter und weiter 
+Doch was der Revolution den wahrhaftigen schubs gegeben hat war die Landwirtschaftliche Revolution. Die Tiere wurden durch Maschinen ausgetauscht und man benutzte neue Methoden wie zum Beispiel Dünger. das brachte mehr Essen und die Population erhörte sich dramatisch. Mehr Leute brauchten mehr Arbeit, mehr Arbeit gab es in den Minen. Das wiederum brachte mehr Kohle. Mehr Kohle gab platz für neue Fabriken da der Treibstoff für Maschinen günstiger wurde Und das gab mehr Arbeit. Das Rad dreht sich weiter und weiter
+
+
 
 ![Erfindung der glübirne ](download-3-.jpg)
 
-Die brümte Glübirne wurde ebenfalls in der industrialisierug erfunden doch zu erst beherschte die gas beleuchtung den markt es war nämlich viel gunstiger eine Glübirne brente zur zeit nur 48 stunden also vurden alle grosstadte mit Gas beleuchtet. erst 1854 wurde die erste gebrauchliche glübirne gebracht. Es gibt immer noch viel spekulation wer die glübirne erfunden hat, doch sie beleuchted unsere welt noch bis heute 
+Die berühmte Glühbirne wurde ebenfalls in der Industrialisierung erfunden, doch zu erst beherrschte die Gas Beleuchtung den Markt es war nämlich viel günstiger. Eine Glühbirne brannte zur zeit nur 48 stunden also wurden alle grosstäte mit Gas beleuchtet. Erst 1854 wurde die erste gebräuchliche Glühbirne gebracht. Es gibt immer noch viel Spekulation wer die Glühbirne erfunden hat, doch sie beleuchtet unsere Welt noch bis heute.
+
+
 
 ![Ein Haushalt wärend der industrialisierung](download-2-.jpg)
 
-Doch Für die population war das leben schwer man wurde wening bezalt. Man muste länger und härter arbeiten Kinder ab 6 jahren in den Fabriken. Überfülte strassen und Heuser. Krankheit und Armut in diesem alter wuchs der unterschied arm und reich wie nie zufor. viele leute in England waren zur zeit anänger einer Religion namens Calvinistische Religion. (Die eigentlich teil von der Kahtolischen Religon ist aber das ist ein anderes Tema)               Die Calvinistische Religion Folgt den lehren von jean Calvin, die besagen das arbeiten und Geld anstreben eine gute und sogar sündenbefreiende Sache ist,
+Doch Für die Population war das leben schwer man wurde wenig bezahlt. Man musste länger und härter arbeiten Kinder ab 6 Jahren in den Fabriken. Überfüllte Strassen und Häuser. Krankheit und Armut. In diesem alter wuchs der unterschied arm und reich wie nie zufror. Viele Leute in England waren zur zeit Anhänger einer Religion namens Calvinistische Religion. (Die eigentlich teil von der Katholischen Religion ist aber das ist ein anderes Thema) Die Calvinistische Religion Folgt den lehren von Jean Calvin, die besagen das arbeiten und Geld anstreben eine gute und sogar schuldbefreiende Sache ist.
+
+
 
 ![Eine der vielen massiven Fabriken](dowoad.jpg)
 
-Zussamengefast ist die Industriele Revulution unser wandel als species von der Agrargesellschaft zur Industriegeselschaft. Die industrialisierung brachte noch viele andere tolle sachen die ich hier nicht reingetan habe
+Zusammengefasst ist die Industrielee Revolution unser wandel als Spezies von der Agrargesellschaft zur Industriesegelschaft. Die Industrialisierung brachte noch viele andere tolle Sachen die ich hier nicht rein-getan habe. Es ist ein unglaubliches Phänomen und sicher nicht die letzte Evolution Phase die Menschheit gesehen hat.
