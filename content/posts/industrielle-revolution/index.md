@@ -45,6 +45,4 @@ Doch Für die Population war das leben schwer man wurde wenig bezahlt. Man musst
 
 Zusammengefasst ist die Industrielee Revolution unser wandel als Spezies von der Agrargesellschaft zur Industriesegelschaft. Die Industrialisierung brachte noch viele andere tolle Sachen die ich hier nicht rein-getan habe. Es ist ein unglaubliches Phänomen und sicher nicht die letzte Evolution Phase die Menschheit gesehen hat.
 
-
-
 Danke Für das lesen
