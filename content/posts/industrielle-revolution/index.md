@@ -23,4 +23,4 @@ Doch was der Revulution den warhaftigen schubs gegeben hat war die Landwirtschaf
 
 ![](download-2-.jpg)
 
-Doch Für die population war das leben schwer man wurde wening bezalt. man muste mehr und härter arbeiten kinder ab 6 jahren in den fabriken. überfülte strassen und heuser. Krankheit und armut in diesem alter wuchs der unterschied arm und reich wie nie zufor
+Doch Für die population war das leben schwer man wurde wening bezalt. man muste mehr und härter arbeiten kinder ab 6 jahren in den fabriken. überfülte strassen und heuser. Krankheit und armut in diesem alter wuchs der unterschied arm und reich wie nie zufor. viele leute in England waren zur zeit anänger einer Religion namens Kalvinistische Religion
