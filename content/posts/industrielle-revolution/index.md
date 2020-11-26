@@ -23,7 +23,7 @@ Doch was der Revulution den warhaftigen schubs gegeben hat war die Landwirtschaf
 
 ![Erfindung der glübirne ](download-3-.jpg)
 
-Die brümte Glübirne wurde ebenfalls in der industrialisierug erfunden 
+Die brümte Glübirne wurde ebenfalls in der industrialisierug erfunden doch zu erst beherschte die gas beleuchtung den markt es war nämlich viel gunstiger eine Glübirne brente zur zeit nur 48 stunden also vurden alle grosstadte mit Gas beleuchtet. erst 1854 wurde die erste gebrauchliche glübirne gebracht. Es gibt immer noch viel spekulation wer die glübirne erfunden hat, doch sie beleuchted unsere welt noch bis heute 
 
 ![Ein Haushalt wärend der industrialisierung](download-2-.jpg)
 
