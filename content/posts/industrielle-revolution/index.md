@@ -17,9 +17,9 @@ Die Dampfmaschine öffnete eine Türe ganz neuer Möglichkeiten: Massenproduktio
 
 Eine grosse Veränderung war auch die Eisenbahn. Sie transportierte Güter und Menschen durchs Land, was der Industrie viel Geld sparte. Aber nicht alle waren einverstanden mit dieser Erfindung. Die Bauer fürchteten, dass die Funken die von der Eisenbahn kamen das Land in Brand setzen würde. Und die Ärzte sagten, die grosse Geschwindigkeit wäre gesundheitsschädigend. (Das waren knapp 30 kmh)
 
-![Eine typische Ersetzung der Tiere (Dampf Pflug)](download-1-.jpg)
+![Eine typische Ersetzung der Tiere: Der Dampfpflug](download-1-.jpg)
 
-Doch was der Revolution den wahrhaftigen schubs gegeben hat war die Landwirtschaftliche Revolution. Die Tiere wurden durch Maschinen ausgetauscht und man benutzte neue Methoden wie zum Beispiel Dünger. das brachte mehr Essen und die Population erhörte sich dramatisch. Mehr Leute brauchten mehr Arbeit, mehr Arbeit gab es in den Minen. Das wiederum brachte mehr Kohle. Mehr Kohle gab platz für neue Fabriken da der Treibstoff für Maschinen günstiger wurde Und das gab mehr Arbeit. Das Rad dreht sich weiter und weiter
+Doch was der Revolution einen richtigen Schub gegeben hat, war die Landwirtschaftliche Revolution. Die Tiere wurden durch Maschinen ausgetauscht und man benutzte neue Methoden wie zum Beispiel Dünger. Das brachte mehr Essen und die Population erhörte sich dramatisch. Mehr Leute brauchten mehr Arbeit, mehr Arbeit gab es in den Minen. Das wiederum brachte mehr Kohle. Mehr Kohle gab Platz für neue Fabriken, da der Treibstoff für Maschinen günstiger wurde Und das gab mehr Arbeit. Das Rad dreht sich weiter und weiter.
 
 ![Erfindung der Glühbirne](download-3-.jpg)
 
