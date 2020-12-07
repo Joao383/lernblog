@@ -23,14 +23,14 @@ Doch was der Revolution einen richtigen Schub gegeben hat, war die Landwirtschaf
 
 ![Erfindung der Glühbirne](download-3-.jpg)
 
-Die berühmte Glühbirne wurde ebenfalls in der Industrialisierung erfunden, doch zu erst beherrschte die Gas Beleuchtung den Markt es war nämlich viel günstiger. Eine Glühbirne brannte zur zeit nur 48 stunden also wurden alle grosstäte mit Gas beleuchtet. Erst 1854 wurde die erste gebräuchliche Glühbirne gebracht. Es gibt immer noch viel Spekulation wer die Glühbirne erfunden hat, doch sie beleuchtet unsere Welt noch bis heute.
+Die berühmte Glühbirne wurde ebenfalls in der Industrialisierung erfunden, doch zu erst beherrschte die Gas Beleuchtung den Markt es war nämlich viel günstiger. Eine Glühbirne brannte zur zeit nur 48 stunden also wurden alle Grosstäte mit Gas beleuchtet. Erst 1854 wurde die erste gebräuchliche Glühbirne gebracht. Es gibt immer noch viel Spekulation wer die Glühbirne erfunden hat, doch sie beleuchtet unsere Welt noch bis heute.
 
 ![Ein Haushalt während der Industrialisierung](download-2-.jpg)
 
-Doch Für die Population war das leben schwer man wurde wenig bezahlt. Man musste länger und härter arbeiten Kinder ab 6 Jahren in den Fabriken. Überfüllte Strassen und Häuser. Krankheit und Armut. In diesem alter wuchs der unterschied arm und reich wie nie zufror. Viele Leute in England waren zur zeit Anhänger einer Religion namens Calvinistische Religion. (Die eigentlich teil von der Katholischen Religion ist aber das ist ein anderes Thema) Die Calvinistische Religion Folgt den lehren von Jean Calvin, die besagen das arbeiten und Geld anstreben eine gute und sogar schuldbefreiende Sache ist.
+Doch für die Population war das Leben schwer man wurde wenig bezahlt. Man musste länger und härter arbeiten und auch schon die Kinder ab 6 Jahren, in den Fabriken. Überfüllte Strassen und Häuser. Krankheit und Armut. In diesem Zeitalter wuchs der Unterschied zwischen Arm und Reich wie nie zuvor. Viele Leute in England waren zur zeit Anhänger einer Religion namens Calvinistische Religion. (Die eigentlich teil von der Katholischen Religion ist aber das ist ein anderes Thema) Die Calvinistische Religion Folgt den lehren von Jean Calvin, die besagen das arbeiten und Geld anstreben eine gute und sogar schuldbefreiende Sache ist.
 
 ![Eine der vielen massiven Fabriken ](dowoad.jpg)
 
-Zusammengefasst ist die Industrielee Revolution unser wandel als Spezies von der Agrargesellschaft zur Industriesegelschaft. Die Industrialisierung brachte noch viele andere tolle Sachen die ich hier nicht rein-getan habe. Es ist ein unglaubliches Phänomen und sicher nicht die letzte Evolution Phase die Menschheit gesehen hat.
+Zusammengefasst ist die Industriele Revolution unser wandel als Spezies von der Agrargesellschaft zur Industriesegellschaft. Die Industrialisierung brachte noch viele andere tolle Sachen die ich hier nicht rein-getan habe. Es ist ein unglaubliches Phänomen und sicher nicht die letzte Evolution Phase die Menschheit gesehen hat.
 
 Danke Für das lesen
