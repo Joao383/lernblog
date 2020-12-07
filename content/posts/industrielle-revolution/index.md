@@ -1,7 +1,7 @@
 +++
 title = "Industrielle Revolution"
 date = "2020-11-24"
-draft = true
+draft = false
 pinned = false
 image = "download.jpg"
 +++
