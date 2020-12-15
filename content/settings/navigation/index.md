@@ -7,7 +7,7 @@ url = "/"
 
 [[link]]
 title = "📚 Bibliothek"
-url = "/bibliothek/"
+url = "https://www.effingerbibliothek.ch"
 
 [[link]]
 title = "Über mich"
