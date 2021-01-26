@@ -23,4 +23,14 @@ Newton war der erste wissenschaftler der die schwerkraft Erklären und beweisen 
 
 Wichtig zu merken ist das newton die theorie der schwerkraft wie wir sie heute kenen nicht entdekt hat. Die hat einstein entekt newton hate eine andere theorie entwikelt die später von einstein falsch bewisen wurde. was newton entekt hat und heute noch gebraucht wird sind die 3 Bewegungsgesetze, und die wären
 
-1:ein  Objekt in bewegung bleibt in bewegung
+1: ein  Objekt in bewegung bleibt in bewegung ein Objekt in Ruhe bleibt in ruhe auser beinflust von ausen
+
+2: kraft = masse x Beschleunigung 
+
+3.Für jede Handlung gibt es eine gleiche und entgegengesetzte Reaktion
+
+
+
+Die ersten zwei sind zimlich einfach zu begreifen aber die dritte braucht eine kleine erklärung. Was das 3 gesetz sagt ist das wen du eine kraft auf ein objekt ausübst übt das objekt die gleiche kraft auf dich aus
+
+![](doload.png)
