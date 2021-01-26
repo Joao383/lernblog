@@ -17,6 +17,10 @@ Dort began er seine theorie über Planetenbewegung und Licht. 1671 Veröfentlich
 
 ![newtons reflektirendes teleskop](downd.jpg)
 
-Newton war der erste wissenschaftler der die schwerkraft Erklären und beweisen konnte. somit stelen wir uns die frage, was ist schwerkraft?  Die Schwerkraft ist eine bewegung oder beschleuningung objiekte die auf der krümung des raumezeit zurük zu füren ist. um schwerkraft zu verstehen muss man noch drei sachen unterscheiden. Masse, gewicht, gewichtskraft starten wir doch mit Masse, Masse ist absulut das bedeuted ob auf der erde auf dem mond oder im weltall masse ist immer gleich. gewichtskraft ist das gegenteil sie ist die kraft die  auf dich ausübt und sie ist relativ auf dem mond ist also die gewichtskraft etwa ⅙ so stark wie auf erde oke aber was ist dan gewicht? obwol masse in kg gemesen wird hat das gewicht nix damit zu tun es ist nicht einmal ein physikalischer begrif. gewicht ist nur ein mass das wir menschen uns angeignet haben ob zu wissen ob wir abnehmen müssen
+Newton war der erste wissenschaftler der die schwerkraft Erklären und beweisen konnte. somit stelen wir uns die frage, was ist schwerkraft?  Die Schwerkraft ist eine bewegung oder beschleuningung objiekte die auf der krümung des raumezeit zurük zu füren ist. um schwerkraft zu verstehen muss man noch drei sachen unterscheiden. Masse, gewicht, gewichtskraft starten wir doch mit Masse. Masse ist absulut das bedeuted ob auf der erde auf dem mond oder im weltall masse ist immer gleich. gewichtskraft ist das gegenteil sie ist die kraft die  auf dich ausübt und sie ist relativ auf dem mond ist also die gewichtskraft etwa ⅙ so stark wie auf erde oke aber was ist dan gewicht? obwol masse in kg gemesen wird hat das gewicht nix damit zu tun es ist nicht einmal ein physikalischer begrif. gewicht ist nur ein mass das wir menschen uns angeignet haben ob zu wissen ob wir abnehmen müssen
 
 ![](download.png)
+
+Wichtig zu merken ist das newton die theorie der schwerkraft wie wir sie heute kenen nicht entdekt hat. Die hat einstein entekt newton hate eine andere theorie entwikelt die später von einstein falsch bewisen wurde. was newton entekt hat und heute noch gebraucht wird sind die 3 Bewegungsgesetze, und die wären
+
+1:ein  Objekt in bewegung bleibt in bewegung
