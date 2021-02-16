@@ -21,7 +21,7 @@ Newton war der erste wissenschaftler der die schwerkraft Erklären und beweisen 
 
 ![](download.png)
 
-Wichtig zu merken ist das newton die theorie der schwerkraft wie wir sie heute kenen nicht entdekt hat. Die hat einstein entekt newton hate eine andere theorie entwikelt die später von einstein falsch bewisen wurde. was newton entekt hat und heute noch gebraucht wird sind die 3 Bewegungsgesetze, und die wären
+die zwei grösten entekungen von newton war die vormel für schwerkraft und die 3 Bewegungsgesetze. sie werden beide bis heute noch benutzt und sie haben unser versthen von phisik komplet verändert. die 3 Bewegungsgesetze erkären wie sich ein obiekt bewegt 
 
 1: ein  Objekt in bewegung bleibt in bewegung ein Objekt in Ruhe bleibt in ruhe auser beinflust von ausen
 
@@ -29,8 +29,12 @@ Wichtig zu merken ist das newton die theorie der schwerkraft wie wir sie heute k
 
 3.Für jede Handlung gibt es eine gleiche und entgegengesetzte Reaktion
 
-
-
 Die ersten zwei sind zimlich einfach zu begreifen aber die dritte braucht eine kleine erklärung. Was das 3 gesetz sagt ist das wen du eine kraft auf ein objekt ausübst übt das objekt die gleiche kraft auf dich aus
 
 ![](doload.png)
+
+die vormel der schwerkraft war unglaublich revulutionär für das zeitalter bevor newton eine theorie aufstelte hatten wisenschaftler keine anhung von scherkaft die legende besagt das newton im garten vom haus sseiner mutter im garten unter dem apfelbaum sas als im ein apfel auf dem kopf viel und da dachte er "was wenn der apfel nicht zur erde fällt sondern sie beide gegen einander fallen" es war der grudbaustein für modernes verstehen von schwerkraft und dan merkte er das es nicht nur äpfel betrift sonder jedes obiekt wie planeten und sterne
+
+![](https://render.fineartamerica.com/images/rendered/default/poster/8.000/4.250/break/images-medium-5/newtons-law-of-universal-gravitation-science-photo-library.jpg)
+
+das ist die vormel für scherkraft die newton erfunden hat "F" sthet für die kraft also die schwerkraft also                 F = G M m ÷ r  das erste und zweite m stehen für die masse der beiden objelte
