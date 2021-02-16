@@ -37,4 +37,8 @@ die vormel der schwerkraft war unglaublich revulutionär für das zeitalter bevo
 
 ![](https://render.fineartamerica.com/images/rendered/default/poster/8.000/4.250/break/images-medium-5/newtons-law-of-universal-gravitation-science-photo-library.jpg)
 
-das ist die vormel für scherkraft die newton erfunden hat "F" sthet für die kraft also die schwerkraft also                 F = G M m ÷ r  das erste und zweite m stehen für die masse der beiden objelte
+das ist die vormel für scherkraft die newton erfunden hat "F" sthet für die kraft also die schwerkraft also                 F = G M m ÷ r  das erste und zweite m stehen für die masse der beiden objelte und r ist die distanz zwischen den beiden objekten im Quadrat und hier wird es spanend denn G beudeuted das Gravitationskonstante nämlich 00000000000667408 oder diese nummer dort unten ist das Gravitationskonstante
+
+![](wnload-1-.png)
+
+dann wisen wir jetzt das man die scherkraft zwischen zwei objekte berechnen kann indem man beide massen durch die distanz zwischen ihnen im quadrat mal 00000000000667408 rechnet das war das leben von isac newton und seine entekungen. Danke fürs lesen
