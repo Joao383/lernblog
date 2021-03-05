@@ -1,7 +1,7 @@
 +++
 title = "Isac newton"
 date = "2020-12-10"
-draft = true
+draft = false
 pinned = false
 image = "isac-.jpg"
 +++
