@@ -1,5 +1,5 @@
 +++
-title = "Isac newton"
+title = "Isaac newton"
 date = "2020-12-10"
 draft = false
 pinned = false
