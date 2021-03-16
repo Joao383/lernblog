@@ -19,4 +19,4 @@ diese kleine quantität an uranium war genug um 140,000 meschen zu töten die th
 
 ![](download-1-.jpg)
 
-meiner meinung nach schreibe ich jetzt über einer der spanndensten tema in der geschichte der menschheit die relativitäts theorie es ist das gröste werk von einstein das ihn bis zum heutigen tag berümt machte
+meiner meinung nach schreibe ich jetzt über einer der spanndensten tema in der geschichte der menschheit die relativitäts theorie es ist das gröste werk von einstein das ihn bis zum heutigen tag berümt machte die relativitäts theorie ist nicht sehr schwierig zu ferstehen aber schwierig zu akzeptieren weil es gegen unsere praktische erfarung geht
