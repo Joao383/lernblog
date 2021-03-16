@@ -18,3 +18,5 @@ Einstein bestand 1900 mit einem Diplom als Fachlehrer in mathematischer Richtung
 diese kleine quantität an uranium war genug um 140,000 meschen zu töten die theorien wurden  an der Universität Zürich und man berief einstein 1909 zum profesor 10 jahre später veröfentlichte er seine relativitäts theorie (die weiter unten erklärt wird) die aber nur 1921 bewiesen wurde im gleichen jahr wurde er mit dem Nobelpreis für phisik ausgezeichnet einstein starb 1955 im alter von 72 
 
 ![](download-1-.jpg)
+
+meiner meinung nach schreibe ich jetzt über einer der spanndensten tema in der geschichte der menschheit die relativitäts theorie es ist das gröste werk von einstein das ihn bis zum heutigen tag berümt machte
