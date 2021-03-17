@@ -22,3 +22,9 @@ diese kleine quantität an uranium war genug um 140,000 meschen zu töten die th
 meiner meinung nach schreibe ich jetzt über einer der spanndensten tema in der geschichte der menschheit die relativitäts theorie es ist das gröste werk von einstein das ihn bis zum heutigen tag berümt machte die relativitäts theorie ist nicht sehr schwierig zu ferstehen aber schwierig zu akzeptieren weil es gegen unsere praktische erfarung geht die theorie bestet aus grob 5 teile dies wird eine sehr fereinfachte version 
 
 ![](pexels-meryl-katys-6978617-1-.jpg)
+
+Teil 1 klasische relativität, klasische relativität  ist das es keine absulte bewegung oder stilstand gibt obiekte bewegen sich reliativ zu einander und die bewegung ändert sich je nach perspektive zb: wan ich ein auto hier auf der erde sehe fährt das auto von meiner perspektive 40 kmh von ost nach west aber von einer anderen perspektive färt das auto 1,670.2 kmh weil sich die erde mitbewegt.
+
+
+
+Teil 2
