@@ -27,4 +27,4 @@ Teil 1 klasische relativität, klasische relativität  ist das es keine absulte 
 
 Teil 2 wir müssen akzeptieren das licht die gleiche geschwindikeit hat für alle beobachter es ist konstant            299 792 458 m/s einstein wusste damals das die beide theorien (die 3 Bewegungsgesetze von isaac newton und die Gesetze des Elektromagnetismus von James Clerk Maxwell ) gegeinander gingen und kam zum schlus das eine der beiden theorien falsch sein muste doch einstein fand ein weg so das beide theorien der warheit entsprachen mit nur einer kleiner veränderung in newtons gestze er nante es Zeitdilatation es bedeuted das licht zeit biegt so das es immer gleich für alle beobechter bleiben kann und hier fand einstein heraus das zeit relativ war
 
-![]()
+![](d-1-.jpg)
