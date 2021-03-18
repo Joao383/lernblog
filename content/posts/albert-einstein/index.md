@@ -29,4 +29,4 @@ Teil 2 wir müssen akzeptieren das licht die gleiche geschwindikeit hat für all
 
 ![](d-1-.jpg)
 
-Teil 3 Zeitreisen Die Zeit verlangsamt sich für Objekte, die sich in der Nähe der Lichtgeschwindigkeit bewegen und für masse mit lichtgeschwidikeit bewegt stopt die zeit komplet dies pasiert nicht mit licht weil licht keine masse hat es ist eine partilel mit einer welle und wenn wir darauf folgen ist es logisch das für masse die schneller als lichteschwindiekeit reist die zeit sich zurük dreht leider würde masse auf lichtgeschwinikeit zu bringen würde unenlich viel energie benötigen und ist somit aus unserer reichweite
+Teil 3 Zeitreisen Die Zeit verlangsamt sich für Objekte, die sich in der Nähe der Lichtgeschwindigkeit bewegen und für masse die sich mit lichtgeschwidikeit bewegt stopt die zeit komplet dies pasiert nicht mit licht weil licht keine masse hat es ist eine partilel mit einer welle und wenn wir darauf folgen ist es logisch das für masse die sich schneller als lichteschwindiekeit bewegt die zeit sich zurük dreht leider würde masse auf lichtgeschwinikeit zu bringen unenlich viel energie benötigen und ist somit aus unserer reichweite
