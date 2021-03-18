@@ -25,6 +25,4 @@ meiner meinung nach schreibe ich jetzt über einer der spanndensten tema in der 
 
 Teil 1 klasische relativität, klasische relativität  ist das es keine absulte bewegung oder stilstand gibt obiekte bewegen sich reliativ zu einander und die bewegung ändert sich je nach perspektive zb: wan ich ein auto hier auf der erde sehe fährt das auto von meiner perspektive 40 kmh von ost nach west aber von einer anderen perspektive färt das auto 1,670.2 kmh weil sich die erde mitbewegt.
 
-
-
-Teil 2
+Teil 2 wir müssen akzeptieren das licht die gleiche geschwindikeit hat für alle beobachter
