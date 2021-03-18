@@ -33,4 +33,6 @@ Teil 3 Zeitreisen Die Zeit verlangsamt sich für Objekte, die sich in der Nähe 
 
 Teil 4 schwerkraft einstein erklärte in seiner theorie das es wir in einem 4 dimensoneles unsersum leben die 3 Raum dimensonen und zeit aber einstein dachte das Raum und zeit zur selbeen dimension gehörten er nante sie raumzeit und er sagte das masse raum zeit krümte desto mehr masse desto grösere krümung  dies verursacht die anziungskraft die wir täglich spüren 
 
-![]()
+![](download-2-.jpg)
+
+Teil 5 wie wisen wir das so eine absurde theorie der warheit entspricht im verlaufe der zeit sind zahlose experimente durchgefürt um zu beweisen das diese theorie wahr ist aber ich zeige euch ein kleines beispiel: in 1971 wurde das Hafele–Keating experiment durchgefürt für das experiment wurden 4 supper genaue atomuhren auf flugzeuge geladen und flugen 2 mal um die welt einal nach westen und einmal nach osten als die uhren wieder in usa ankamen warnen die uhren nicht übereingestimt
