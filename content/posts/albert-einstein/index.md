@@ -31,6 +31,6 @@ Teil 2 wir müssen akzeptieren das licht die gleiche geschwindikeit hat für all
 
 Teil 3 Zeitreisen Die Zeit verlangsamt sich für Objekte, die sich in der Nähe der Lichtgeschwindigkeit bewegen und für masse die sich mit lichtgeschwidikeit bewegt stopt die zeit komplet dies pasiert nicht mit licht weil licht keine masse hat es ist eine partilel mit einer welle und wenn wir darauf folgen ist es logisch das für masse die sich schneller als lichteschwindiekeit bewegt die zeit sich zurük dreht leider würde masse auf lichtgeschwinikeit zu bringen unenlich viel energie benötigen und ist somit aus unserer reichweite 
 
+Teil 4 schwerkraft einstein erklärte in seiner theorie das es wir in einem 4 dimensoneles unsersum leben die 3 Raum dimensonen und zeit aber einstein dachte das Raum und zeit zur selbeen dimension gehörten er nante sie raumzeit und er sagte das masse raum zeit krümte desto mehr masse desto grösere krümung  dies verursacht die anziungskraft die wir täglich spüren 
 
-
-Teil 4 schwerkraft einstein erklärte in seiner relativitäts theorie fürs erste mal schwerkraft
+![]()
