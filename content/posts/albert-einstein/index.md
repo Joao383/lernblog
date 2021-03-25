@@ -1,7 +1,7 @@
 +++
 title = "Albert Einstein"
 date = "2021-03-09"
-draft = true
+draft = false
 pinned = false
 image = "https://cdn.britannica.com/59/23359-131-42CFFC3D/Albert-Einstein.jpg"
 +++
