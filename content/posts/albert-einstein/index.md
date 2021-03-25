@@ -3,7 +3,8 @@ title = "Albert Einstein"
 date = "2021-03-09"
 draft = false
 pinned = false
-image = "865px-einstein_1921_portrait2.jpg"
+image = "865px-einstein_1921_portrait2-2-.jpg"
+footnotes = "*"
 +++
 ![](https://cdn.britannica.com/59/23359-131-42CFFC3D/Albert-Einstein.jpg)
 
