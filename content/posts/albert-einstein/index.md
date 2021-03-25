@@ -58,6 +58,4 @@ Teil 5:
 Wie wissen wir, dass so eine absurde Theorie der Wahrheit entspricht. Im Verlaufe der Zeit sind zahllose Experimente durchgeführt worden, um zu beweisen das diese Theorie wahr ist. Aber ich zeige euch ein kleines Beispiel: 1971 wurde das Hafele–Keating Experiment durchgeführt. Für das Experiment wurden 4 supergenaue Atomuhren auf Flugzeuge geladen und flogen 2-mal um die Welt einmal nach Westen und einmal nach Osten. Als die Uhren wieder in USA ankamen warnen die Uhren nicht mehr synchronisiert. Und die Zeitangaben
 stammen überein mit der Berechnung von der Theorie Einsteins. 
 
-
-
 Danke für das Lesen
