@@ -1,9 +1,9 @@
 +++
 title = "Effinger Bibliothek"
 date = "2021-06-03"
-draft = true
+draft = false
 pinned = false
-image = "https://www.pexels.com/de-de/foto/bucher-buch-lesen-wohnzimmer-4440123/"
+image = "https://www.pexels.com/de-de/foto/bucher-lesen-wohnzimmer-wohnkultur-4440119/"
 +++
 Ich habe ein Projekt das heisst Effinger Bibliothek es ist im Moment noch klein und instabil aber ich habe Hoffnung das es eines Tages es gross und stark sein wird. Die Effinger Bibliothek ist nicht genau eine "Bibliothek" es ist mehr wie ein einfacher weg Bücher auszutauschen in der Effinger Comunity. Wen jemand ein Buch hat das er schon gelesen hat aber nicht verkaufen oder verschenken will dann kann er es in der Effinger Bibliothek das Buch einfach ausleihen.
 
