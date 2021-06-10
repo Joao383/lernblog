@@ -3,6 +3,7 @@ title = "Effinger Bibliothek"
 date = "2021-06-03"
 draft = false
 pinned = false
+tags = ["EffingerBibliothek"]
 image = "buecher-der-90er-jahre.webp"
 +++
 Ich habe ein Projekt, das heisst Effinger-Bibliothek. Es ist im Moment noch klein und instabil, aber ich habe Hoffnung, dass es eines Tages gross und stark sein wird. Die Effinger-Bibliothek ist nicht genau eine "Bibliothek", es ist mehr ein einfacher Weg, um in der Effinger Community Bücher auszutauschen. Wenn jemand ein Buch hat, das er schon gelesen hat, aber nicht verkaufen oder verschenken will, dann kann er es in der Effinger Bibliothek zum Ausleihen zur Verfügung stellen.
