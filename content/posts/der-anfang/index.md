@@ -6,4 +6,6 @@ pinned = false
 tags = ["EffingerBibliothek"]
 image = "pexels-photo-5417630-2-.jpeg"
 +++
-Ich bin am Anfang meines Projektes, und finde jetzt mehr Motivation in mir. Man kann jetzt miterleben wie die Effinger Bibliothek form annimmt. Und was sie in der Zukunft definieren wird
+Ich bin am Anfang meines Projektes, und finde jetzt mehr Motivation in mir. Man kann jetzt miterleben wie die "Effinger Bibliothek" form annimmt. Und was sie in der Zukunft definieren wird.  Ich habe den ersten Flyer Prototyp Design. Und Ich mag es ziemlich den nächste schritt wäre die web Site zu dekorieren. Im Moment ist sie noch ziemlich kahl. Ich bin mir noch nicht sicher ob ich die gleiche design  wie bei den Flyer folgen will. Oder etwas neues.
+
+![](screenshot-46-.png)
