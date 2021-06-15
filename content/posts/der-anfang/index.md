@@ -10,4 +10,4 @@ Ich bin am Anfang meines Projektes, und finde jetzt mehr Motivation in mir. Man 
 
 ![](screenshot-46-.png)
 
-denn Flyer ist sehr simpel mit nur 2 Grundfarben. An einem Flyer sieht das toll aus aber die Website braucht was anderes. grössere Flächen sehen mit mehr Detail besser aus das Gegenteil für kleine Flächen.
+denn Flyer ist sehr simpel mit nur 2 Grundfarben. An einem Flyer sieht das toll aus aber die Website braucht was anderes. grössere Flächen sehen mit mehr Detail besser aus, das Gegenteil für kleine Flächen. Bald Wird die Bibliothek "offiziell" gestartet und ich kann kaum warten
