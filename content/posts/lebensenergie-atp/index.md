@@ -4,7 +4,7 @@ date = "2021-06-22"
 draft = true
 pinned = false
 tags = []
-image = "900_human-body.jpg"
+image = "900_human-body-2-.jpg"
 +++
 ATP (Adenosintriphosphat) Ist ein Hydrotrop. Das die meisten Zellen verarbeiten, produzieren und als Kurzzeit Energie Speicher Benutzen. ATP ist fundamental für unsere Körper. Menschen Produzieren etwa ihr eigenes Körpergewicht in ATP jeden tag. Jedes Lebewesen das wir kennen benutzt ATP oder etwas sehr ähnliches. Die ersten Zellen benutzten schon ATP vor der Photosynthese. 
 
