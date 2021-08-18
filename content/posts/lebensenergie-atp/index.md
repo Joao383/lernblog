@@ -5,16 +5,12 @@ draft = true
 pinned = false
 tags = []
 +++
-Lebensenergie ist was alles am leben hält. Aber was ist das leben? Ich denke Das leben ist ein kleiner teil des Universums das sein eigenes ding machen will. Und sich vom Rest des Universums trennt. Das Universum mag das aber nicht besonders und versucht es zu verhindern. Das nennt sich Entropie, und deshalb ist das überleben ein Kampf. Unser Körper muss konstant gegen die Physik Ankommen, und deshalb Braucht unser Körper Energie und Lebewesen benutzen, verarbeiten und produzieren diese Energie in Form von ATP (Adenosin Triphosphat) Es ist ein Molekül das sich perfekt für Energie Transport und Verteilung im Körper Eignet. Pflanzen, Tiere und Menschen benutzen ATP. Menschen Produzieren etwa ihr eigenes Körpergewicht in ATP jeden tag
+ATP (Adenosintriphosphat) Ist ein Hydrotrop. Das die meisten Zellen verarbeiten, produzieren und als Kurzzeit Energie Speicher Benutzen. ATP ist fundamental für unsere Körper. Menschen Produzieren etwa ihr eigenes Körpergewicht in ATP jeden tag. Jedes Lebewesen das wir kennen benutzt ATP oder etwas sehr ähnliches. Die ersten Zellen benutzten schon ATP vor der Photosynthese. 
 
 
 
+![](e8pprdd24ezbpp88qntuns.jpg)
 
 
 
-
-
-
-
-
-![](900_human-body.jpg)
+Eines der Grössten Hindernissen von den ersten Zellen war es brauchbare Energie zu bekommen. Als Photosynthese Entdeckt wurde Begannen viele Zellen die Elektromagnetische Energie von der sonne in chemische Energie die sie in ATP speichern und benutzten konnten. Aber ein paar Zellen Volten Keine Photosynthese Machen also begangen sie andere Zellen zu essen, um an ihres ATP zu kommen. ein paar Millionen Jahre ging das so weiter. Bis eine Zelle die andere ass aber sie nicht umbrachte. Und sie wurden eine Zelle. Die innere Zelle Konnte sich jetzt ganz auf Energie Produzieren konzentrieren (die ersten Mitochondrien). Und die äussere Zelle konnte sich auf das überleben konzentrieren. Diese Zelle wurde zum Vorfahr von allem leben auf unserer erde. Sie Hatte mehr Energie als alle anderen. und wurde der erste Baustein der Evolution des Menschen. der Körper eines Menschen hat 37,2 Billionen Zellen das ist 3 mal so viel wie alle bäume und Menschen auf dieser Welt kombiniert.
