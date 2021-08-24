@@ -3,5 +3,5 @@ headless = true
 title = "João"
 description = "LernBlog"
 footerLeft = "Powered by ❤️ and [lernblog.ch](https://www.lernblog.ch)"
-footerRight = ""
+footerRight = "Danke fürs Lesen"
 +++
