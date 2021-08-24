@@ -3,6 +3,7 @@ title = "Satz des Pythagoras"
 date = "2020-08-27"
 draft = false
 pinned = false
+tags = ["Mathematik"]
 image = "260px-01-rechtwinkliges_dreieck-pythagoras.svg.jpg"
 +++
 **Der Satz des Pythagoras**
