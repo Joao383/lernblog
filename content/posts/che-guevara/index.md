@@ -3,6 +3,7 @@ title = "Che Guevara"
 date = "2020-11-12"
 draft = false
 pinned = false
+tags = ["Geschichte"]
 image = "download-5-.jpg"
 +++
  [![](https://1.bp.blogspot.com/-qp1jyi4R_vs/X5f2rOr0FxI/AAAAAAAAFCw/OlUtLy2imM4himl5cV2EQpXN8EvgzawBwCLcBGAsYHQ/w400-h250/download.jpg)](https://www.blogger.com/blog/post/edit/7703410114569854784/6321650398524566074#)
