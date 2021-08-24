@@ -3,6 +3,7 @@ title = "Isaac newton"
 date = "2020-12-10"
 draft = false
 pinned = false
+tags = ["Physik", "Geschichte"]
 image = "isac-.jpg"
 +++
 ![Isac Newton](isac-.jpg)
