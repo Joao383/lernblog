@@ -3,7 +3,7 @@ title = "Lebensenergie & ATP"
 date = "2021-06-22"
 draft = false
 pinned = false
-tags = []
+tags = ["Biologie"]
 image = "900_human-body-2-.jpg"
 +++
 ATP (Adenosintriphosphat) Ist ein Hydrotrop, das die meisten Zellen verarbeiten, produzieren und als Kurzzeit Energie-Speicher für chemische Energie benutzen. ATP ist fundamental für unseren Körper. Menschen produzieren jeden Tag etwa ihr eigenes Körpergewicht in ATP. Jedes Lebewesen, das wir kennen benutzt ATP oder etwas sehr Ähnliches. Die ersten Zellen benutzten schon ATP vor der Photosynthese.
