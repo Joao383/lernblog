@@ -3,6 +3,7 @@ title = "Albert Einstein"
 date = "2021-03-09"
 draft = false
 pinned = false
+tags = ["Physik", "Geschichte"]
 image = "865px-einstein_1921_portrait2-2-.jpg"
 footnotes = "*"
 +++
