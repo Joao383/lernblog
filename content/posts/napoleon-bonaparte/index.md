@@ -3,6 +3,7 @@ title = "Napoleon Bonaparte"
 date = "2020-10-29"
 draft = false
 pinned = false
+tags = ["Geschichte"]
 image = "download-9-.jpg"
 +++
 (Ich denke in Zukunft werde ich über wichtige Personen in der Geschichte Schreiben. Und Napoleon Bonaparte ist doch ein toller Start)
