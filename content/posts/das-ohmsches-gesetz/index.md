@@ -3,6 +3,7 @@ title = "Das Ohmsche Gesetz"
 date = "2020-11-18"
 draft = false
 pinned = false
+tags = ["Physik", "Geschichte"]
 image = "download.jpg"
 +++
 ![Herr Ohm](download.jpg)
