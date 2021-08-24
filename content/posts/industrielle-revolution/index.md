@@ -3,6 +3,7 @@ title = "Industrielle Revolution"
 date = "2020-11-24"
 draft = false
 pinned = false
+tags = ["Geschichte"]
 image = "download.jpg"
 +++
 ![](download.jpg)
