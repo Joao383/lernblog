@@ -1,7 +1,7 @@
 +++
 title = "Ziele"
 date = "2021-08-23"
-draft = true
+draft = false
 pinned = false
 tags = []
 image = "aeschbacher-ziele-1.jpg"
