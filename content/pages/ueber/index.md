@@ -4,9 +4,11 @@ draft = false
 image = ""
 description = "Seite über mich"
 +++
+### Hei mein Name ist João Caduff.
+
 ![](bewerbung-bild-2.jpeg)
 
-Hei mein Name ist João Caduff. Und ich schreibe jetzt schon seit 1 Jahr an diesem Lernblog. Ich schreibe über die Themen die mein Interesse wecken, und hoffentlich auch deins. Ich habe auch eine Online Bibliothek die ich dir unbedingt empfehle. Falls du jemals eine frage oder Feedback hast für mich Kontaktiere mich. Und vielen dank fürs lesen 
+ich schreibe jetzt schon seit 1 Jahr an diesem Lernblog. Ich schreibe über die Themen die mein Interesse wecken, und hoffentlich auch deins. Ich habe auch eine Online Bibliothek die ich dir unbedingt empfehle. Falls du jemals eine frage oder Feedback hast für mich Kontaktiere mich. Und vielen dank fürs lesen 
 
 Kontakt
 
