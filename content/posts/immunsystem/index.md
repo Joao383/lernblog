@@ -5,4 +5,4 @@ draft = true
 pinned = false
 tags = ["Biologie"]
 +++
-ee
+das menschliche immun System ist das komplexeste Biologische System das wir kennen mit Ausnahme von unserem Gehirn. Das Immun System besteht aus Hunderte von kleinen Organe die Lymphknoten und 2 Grosse. Die Thymusdrüse  und die Milz. Es hat auch ein eigenes Transport System das sich Lymphgefäss nennt. Diese Organe produzieren Milliarden von Zellen Jeden Tag die organisiert sind wie eine arme. Mit Soldaten, Capitaine, Geheimdienst und Artillerie. Sie haben alle Mehrere Aufgaben aber ein gemeinsames ziel. Dein Körper zu beschützen.
