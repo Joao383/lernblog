@@ -11,4 +11,4 @@ das menschliche immun System ist das komplexeste Biologische System das wir kenn
 
 ![](immunsystem-2-.jpg)
 
-Stellen wir uns vor dein immun System kommt zum Einsatz gegen eine kleine Schnittwunde. Deine Haut die erste Verteidigungslinie von deinem Körper ist gefallen und Millionen von Bakterien stürmen herein.
+Stellen wir uns vor dein immun System kommt zum Einsatz gegen eine kleine Schnittwunde. Deine Haut die erste Verteidigungslinie von deinem Körper ist gefallen und Millionen von Bakterien stürmen herein. Die erste Reaktion von deinen Zellen ist ein allarmschrei, alle überlebenden Zellen setzten Chemikalien frei um das immun System zu allarmieren. Die erste Verteidigung die ankommen sind Makrophagen. Wenn eine Zelle so gross wär wie ein Mensch dann wäre eine Makrophage so gross wie ein Schwarzes Rhino. Sie Verschlucken die Bakterien ganz und Verdauen sie. nachdem die Makrophagen ihren angriff beendet haben rufen sie Verstärkung. Die Neutrophile kommen jetzt aufs Schlachtfeld, Neutrophile sind Suizid Soldaten die in der Schlacht ihr leben lassen
