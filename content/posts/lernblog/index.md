@@ -1,7 +1,7 @@
 +++
 title = "Lernblog Geburtstag🎉🎂"
 date = "2021-08-31"
-draft = true
+draft = false
 pinned = false
 image = "default-image.png"
 description = "Mein Lernblog ist jetzt ist 1 Jahr alt. Und ich finde dies eine gute zeit um zu sehen wie weit er gekommen ist. Für mich ist die menge weniger wichtig als Qualität. Ich bin auf jeden einzelnen Post stolz, also bin ich eigentlich Froh das mein Blog wenig aber gute Posts hat."
