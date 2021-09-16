@@ -5,7 +5,7 @@ draft = true
 pinned = false
 tags = ["Biologie"]
 image = "phaenomenal-unser_immunsystem_titelbild.png"
-description = "das menschliche immun System ist das komplexeste Biologische System das wir kennen mit Ausnahme von unserem Gehirn."
+description = "Das menschliche Immunsystem ist das komplexeste Biologische System das wir kennen mit Ausnahme von unserem Gehirn."
 footnotes = "Quellen:\n\nhttps://www.ncbi.nlm.nih.gov/books/NBK279395/\n\nhttps://www.ncbi.nlm.nih.gov/books/NBK26846/\n\nhttps://de.wikipedia.org/wiki/Immunsystem\n\nhttps://en.wikipedia.org/wiki/Complement_system\n\nhttps://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1005682\n\nhttps://www.youtube.com/watch?v=lXfEK8G8CUI&t=1s"
 +++
 Das menschliche Immunsystem ist das komplexeste Biologische System das wir kennen, mit Ausnahme von unserem Gehirn. Es besteht aus Hunderte von kleinen Organe die Lymphknoten und 2 Grosse. Die Thymusdrüse  und die Milz. Es hat auch ein eigenes Transport System das sich Lymphgefäss nennt. Diese Organe produzieren Milliarden von Zellen Jeden Tag die organisiert sind wie eine arme. Mit Soldaten, Capitaine, Geheimdienst und Artillerie. Sie haben alle Mehrere Aufgaben aber ein gemeinsames ziel. Dein Körper zu schützen.
