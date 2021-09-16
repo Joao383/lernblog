@@ -54,10 +54,13 @@ Der Bundesrat besteht aus 7 Mitglieder die vom Parlament gewählt werden. Ihre a
 7. Umwelt verkehr und Kommunikation
 
 **Die Judikative**
+
 in der Schweiz ist das Bundesgericht das höchste Gericht. Es überwacht die Einhaltung der gesetzte und regeln. Kann eine Angelegenheit nicht im Kanton geregelt werden entscheidet das Bundesgericht. Die 4 Bundesrichter werden bei der Bundesversammlung gewählt ihre Amts Dauer beträgt 6 Jahre
 
 **Föderalismus**
+
 Unter Föderalismus Versteht man die Verteilung der Verantwortung der Schweiz auf die Kantone. Damit Hat jeder Kanton seine eigene Legislative, Exekutive und Judikative. So kann jeder Kanton Gesetzte Machen Erlassen und ausführen.
 
 **Die Verfassung**
+
 Die Verfassung ist das Regeln Buch der Schweiz das am absolut höchsten steht es bei-innhaltet regeln die zu beachten sind bei den Wahlen oder beim Militär oder wen man den Müll raus bringt. Die einzige Ausnahme ist das zwingende Völkerrecht (Gegen Sklaverei und Folter)
