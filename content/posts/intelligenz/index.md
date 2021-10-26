@@ -10,4 +10,8 @@ Wir Menschen Haben schon ziemlich viel vollbracht von Raketen zu Minecraft und a
 
 ![](pexels-pixabay-355948.jpg)
 
-Drei Weitere
+Unser Gehirn kann sich unzählige mechanische Abläufe Merken und hervorrufen falls nötig. Diese Fähigkeit nennen wir mal unsere Wissens Bibliothek. jetzt hat kommt ein spannendes Werkzeug das alle vorherigen verbinden kann nämlich Kreativität. Kreativität verleiht uns die Fähigkeit Zwei unverwandte Dinge zu verbinden. Das Bedeutet das man neue und ungewohnte Lösungen für ein spezifisches Problem findet. noch eine nützliche Fähigkeit die mit Kreativität kommt ist Physische Werkzeuge zu benutzten wie zum Beispiel Affen die Stöcke benutzten um an Essen zu kommen oder gewisse Oktopusse die lehre Kokosnüsse als versteck verwenden.
+
+![](pexels-digital-buggu-171198.jpg)
+
+eine Komplexe Fähigkeit von uns ist Planen das ist die Fähigkeit verschiedene Aktionen verbinden um ein Ziel in der Zukunft zu erreichen das beste Beispiel von dem sind die Eichhörnchen sie können es vergraben um es an einen späteren Zeitpunkt essen. eine Kuh kann das nicht aber muss sie auch nicht können Die Fähigkeiten die für eine Kuh wichtig sind sind social. die Tiere in unserem Umfeld haben sich genau das aneignet was für ihr überleben wichtig ist
