@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Biologie"]
 image = "pexels-pixabay-45205.jpg"
-footnotes = "Quellen\n\n<https://de.wikipedia.org/wiki/Pilze>\n\n<https://de.wikipedia.org/wiki/Hefe>\n\n<https://de.wikipedia.org/wiki/Reinzuchthefe>\n\n<https://www.youtube.com/watch?v=m4DUZhnNo4s>\n\nDanke für das Lesen"
+footnotes = "Quellen\n\n<https://de.wikipedia.org/wiki/Pilze>\n\n<https://de.wikipedia.org/wiki/Hefe>\n\n<https://de.wikipedia.org/wiki/Reinzuchthefe>\n\n<https://www.youtube.com/watch?v=m4DUZhnNo4s>\n\nDanke für ihre Aufmerksamkeit."
 +++
 Pilze sind aus vielen Gründen sehr interessante Organismen. Sie werden auf der ganzen Welt aktiv erforscht, weil wir noch sehr wenig über Pilze wissen. Wissenschaftler schätzten, dass es auf der Welt über 2.2 Millionen Pilze gibt und 5.1 Millionen Pilzarten. Es wurden schon über 100,000 Arten entdeckt, davon sind 614 essbar. Pilze haben auch eine der wichtigsten Aufgaben in der Nahrungskette. "Sie leben von dem Tod". Pilze verarbeiten alles was tot ist zurück zu Nährstoffen für neues Leben. Und sie vollenden somit der endlose Zyklus des Lebens.
 
