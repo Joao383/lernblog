@@ -3,6 +3,7 @@ title = "Programmieren"
 date = "2022-03-01"
 draft = true
 pinned = false
+image = "visual-studio-code-01.03.2022-10_10_22.png"
 +++
 Ich habe mich letzte die Woche ein wenig mit Visual Studio Code befasst. dabei hatte ich eine menge spass und konnte eine kleine Website aufbauen  mich hat Programmieren schon immer interessiert ich finde es spannend wie etwas simples etwas komplexes machen kann. Es gibt ein paar Programmiersprachen wie zum Beispiel Java, Python, CSS aber ich verwende Hauptsächlich HTML (Hypertext Markup Language). bis Jetzt habe ich noch nicht viel gemacht aber ich habe schon eine "Test Website" Für ein Restaurant das nicht Existiert
 
