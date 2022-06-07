@@ -1,7 +1,7 @@
 +++
 title = "Programmieren"
 date = "2022-03-01"
-draft = true
+draft = false
 pinned = false
 image = "visual-studio-code-01.03.2022-10_10_22.png"
 +++
