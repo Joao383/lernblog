@@ -5,7 +5,7 @@ draft = true
 pinned = false
 image = "visual-studio-code-01.03.2022-10_10_22.png"
 +++
-Ich habe mich letzte Woche ein wenig mit Visual Studio Code befasst. Dabei hatte ich eine menge spass und konnte eine kleine Website aufbauen. Mich hat Programmieren schon immer interessiert, ich finde es spannend wie Vieles simples etwas komplexes machen kann. Es gibt ein mehrere Programmiersprachen wie zum Beispiel Java, Python, CSS aber ich verwende Hauptsächlich HTML (Hypertext Markup Language). Bis Jetzt habe ich noch nicht viel gemacht aber ich habe schon eine "Test Website" Für ein Restaurant das nicht Existiert.
+Ich habe mich letzte Woche ein wenig mit Visual Studio Code befasst. Dabei hatte ich eine menge Spass und konnte eine kleine Website aufbauen. Mich hat Programmieren schon immer interessiert, ich finde es spannend wie vieles simples etwas komplexes machen kann. Es gibt mehrere Programmiersprachen wie zum Beispiel Java, Python oder CSS Ich verwende hauptsächlich HTML (Hypertext Markup Language). Bis jetzt habe ich noch nicht viel gemacht aber ich habe schon eine "Test Website" für ein Restaurant das nicht existiert.
 
 - - -
 
@@ -15,12 +15,12 @@ Ich habe diese Website als Übung gemacht und habe sehr viel gelernt. Ganz oben 
 
 - - -
 
-![](restaurant-menzli-brave-01.03.2022-09_34_06.png "Die \\"Menü\\" Seite meiner Website ")
+![](restaurant-menzli-brave-01.03.2022-09_34_06.png "Die \\\"Menü\\\" Seite meiner Website ")
 
-Bei dieser Seite habe ich ein Menü aus einem amerikanischen Hotel verwendet und dies ein Bisschen um editiert. dabei habe ich auch ein bedeckter Tisch als Hintergrund genommen.
+Bei dieser Seite habe ich ein Menü aus einem amerikanischen Hotel verwendet und dies ein bisschen um editiert. Dabei habe ich auch ein gedeckter Tisch als Hintergrund genommen.
 
 - - -
 
 ![](restaurant-menzli-brave-01.03.2022-09_34_18.png "Die Seite für Reservationen ")
 
-Diese Seite habe ich mit Open Table Verbunden so das man auf der Website Live Reservationen machen kann bis zu 20 Personen. Ich habe dann zusammen mit dem Dunklen Hintergrund auch noch ein "Reserviert" Zeichen hinzugefügt.
+Diese Seite habe ich mit Open Table verbunden so dass man auf der Website Live Reservationen machen kann bis zu 20 Personen. Ich habe dann zusammen mit dem dunklen Hintergrund auch noch ein "Reserviert" Zeichen hinzugefügt.
